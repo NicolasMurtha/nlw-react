@@ -1,10 +1,12 @@
-Como executar localmente:
+## Como Executar Localmente:
 
-clonar o repositório do backend em https://github.com/NicolasMurtha/nlw-unite-nodejs
-instalar as dependências com -npm i
-executar com -npm run dev
+### Backend:
+1. Clone o repositório do backend em [https://github.com/NicolasMurtha/nlw-unite-nodejs](https://github.com/NicolasMurtha/nlw-unite-nodejs)
+2. Instale as dependências com `npm i`
+3. Execute com `npm run dev`
 
-clonar esse repositório
-instalar as dependências com -npm i
-executar com -npm run dev
-ctrl + click no link localhost
+### Frontend:
+1. Clone este repositório.
+2. Instale as dependências com `npm i`
+3. Execute com `npm run dev`
+4. Clique enquanto pressiona Ctrl no link
